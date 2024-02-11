@@ -9,7 +9,7 @@ Gideon: Here is a coding pattern that can help you [build a K-Means Clustering m
 `Conversation 2: Resume Scorecard`   
 
 User: "How to build a resume scorecard?"  
-Gideon: Here are the steps to build a resume scorecard:  
+Gideon: Here are the steps to build a resume scorecard: 
 
 Step 1: Extract the text from a pdf using PyPDF package - [pyPDF code pattern](ml-code-patterns/NLP/text_from_pdf)   
 Step 2: Clean the textual data by removing stop words - [Stopword Removal](ml-code-patterns/NLP/stopword_removal)  
